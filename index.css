@@ -1,0 +1,17 @@
+div{
+    background-color: pink;
+    width: 40em;
+    height: 13em;
+    position: relative;
+    right: -34em;
+    bottom: -21em;
+    border-radius: 13em;
+}
+.guzicek{
+    top: 40%;
+    position: absolute;
+    right: 40%;
+    background-color: aqua;
+    border: 1em solid aqua;
+    border-radius: 1em;
+}
